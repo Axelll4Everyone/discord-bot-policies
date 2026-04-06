@@ -1,4 +1,4 @@
-# Privacy Policy for Discord Bot
+# Privacy Policy for Our Discord Bot
 
 Last Updated: 15 November 2025
 
