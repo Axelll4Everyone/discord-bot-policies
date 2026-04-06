@@ -1,4 +1,4 @@
-# Terms of Service for Axelll Bot Center [wip]
+# Terms of Service for Our Discord Bot
 
 Last Updated: 15 November 2025
 
