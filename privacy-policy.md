@@ -1,4 +1,4 @@
-# Privacy Policy for Axelll Bot Center [wip]
+# Privacy Policy for Discord Bot
 
 Last Updated: 15 November 2025
 
